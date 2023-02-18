@@ -1,0 +1,4 @@
+D:/Desktop/Group19/cg_project_group19/cg_project_group19_code/build/CMakeFiles/SPPM.dir
+D:/Desktop/Group19/cg_project_group19/cg_project_group19_code/build/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/Group19/cg_project_group19/cg_project_group19_code/build/CMakeFiles/ZERO_CHECK.dir
+D:/Desktop/Group19/cg_project_group19/cg_project_group19_code/build/src/CMakeFiles/renderer.dir

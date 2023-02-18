@@ -1,0 +1,10 @@
+^D:\DESKTOP\GROUP19\CG_PROJECT_GROUP19\CG_PROJECT_GROUP19_CODE\BUILD\CMAKEFILES\BD54FC6EC72AD6AF240FED9938C7ACFC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Desktop/Group19/cg_project_group19/cg_project_group19_code -BD:/Desktop/Group19/cg_project_group19/cg_project_group19_code/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Desktop/Group19/cg_project_group19/cg_project_group19_code/build/SPPM.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
