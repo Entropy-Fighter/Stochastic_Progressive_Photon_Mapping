@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.20)  18 FEB 2023 17:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.20)  19 FEB 2023 10:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/report.tex
-(d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/report.tex
+**d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/report.tex
+(d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/report.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> (d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/acmart.cls
+L3 programming layer <2021-02-18> (d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/acmart.cls
 Document Class: acmart 2017/07/09 v1.43 Typesetting articles for Association of Computing Machinery
 (d:/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
@@ -621,7 +621,7 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count309
 \l__pdf_internal_box=\box57
-) (d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/report.aux)
+) (d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 39.
@@ -726,7 +726,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
- (d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/report.out) (d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/report.out)
+ (d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/report.out) (d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/report.out)
 \@outlinefile=\write4
 \openout4 = `report.out'.
 
@@ -861,7 +861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--85
 
 [1.1{d:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/SPPM.JPG>]
+ <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/SPPM.JPG>]
 <l.JPG, id=34, 289.58188pt x 44.66687pt>
 File: l.JPG Graphic file (type jpg)
 <use l.JPG>
@@ -921,9 +921,9 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-18.21303pt}.
 
-[2.2 <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/l.JPG> <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/lr.JPG> <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/kdtree.JPG> <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/r.JPG> <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/t.JPG> <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/result.png (PNG copy)> <d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/result100.png (PNG copy)>]
-Overfull \hbox (11.8752pt too wide) in paragraph at lines 175--176
-[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) codingnoooob (2020533xxx): hit-point.cpp(kdtree), cam-era.cpp(SPPM) 
+[2.2 <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/l.JPG> <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/lr.JPG> <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/kdtree.JPG> <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/r.JPG> <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/t.JPG> <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/result.png (PNG copy)> <d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/result100.png (PNG copy)>]
+Overfull \hbox (18.45602pt too wide) in paragraph at lines 175--176
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Entropy-Fighter (2020533xxx): hit-point.cpp(kdtree), cam-era.cpp(SPPM) 
  []
 
 
@@ -935,20 +935,20 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 
 [3.3
 
-] (d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/report.aux)
+] (d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: EB56023567BEAF78A4AB15CCE4D4F6B2;515.
  ) 
 Here is how much of TeX's memory you used:
  21571 strings out of 478994
- 337361 string characters out of 5862207
+ 337421 string characters out of 5862207
  837650 words of memory out of 5000000
  38334 multiletter control sequences out of 15000+600000
  485671 words of font info for 167 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 96i,12n,131p,560b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,12n,131p,564b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}<d:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb>
-Output written on d:/Desktop/Group19/StochasticProgressivePhotonMapping/report&presentation/report_latex/report.pdf (3 pages, 2433045 bytes).
+Output written on d:/Documents/GitHub/Stochastic_Progressive_Photon_Mapping/report&presentation/report_latex/report.pdf (3 pages, 2433678 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
